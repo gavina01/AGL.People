@@ -7,3 +7,12 @@ C:\Development\kloud.visualstudio.com\AGL.People\AGL.People.Models\AGL.People.Mo
 C:\Development\kloud.visualstudio.com\AGL.People\AGL.People.Models\AGL.People.Models\obj\Debug\netcoreapp2.0\AGL.People.Models.dll
 C:\Development\kloud.visualstudio.com\AGL.People\AGL.People.Models\AGL.People.Models\obj\Debug\netcoreapp2.0\AGL.People.Models.pdb
 C:\Development\kloud.visualstudio.com\AGL.People\AGL.People.Models\AGL.People.Models\obj\Debug\netcoreapp2.0\AGL.People.Models.csprojResolveAssemblyReference.cache
+C:\Development\kloud.visualstudio.com\AGL.People\src\AGL.People.Models\AGL.People.Models\bin\Debug\netcoreapp2.0\AGL.People.Models.deps.json
+C:\Development\kloud.visualstudio.com\AGL.People\src\AGL.People.Models\AGL.People.Models\bin\Debug\netcoreapp2.0\AGL.People.Models.dll
+C:\Development\kloud.visualstudio.com\AGL.People\src\AGL.People.Models\AGL.People.Models\bin\Debug\netcoreapp2.0\AGL.People.Models.pdb
+C:\Development\kloud.visualstudio.com\AGL.People\src\AGL.People.Models\AGL.People.Models\obj\Debug\netcoreapp2.0\AGL.People.Models.csproj.CoreCompileInputs.cache
+C:\Development\kloud.visualstudio.com\AGL.People\src\AGL.People.Models\AGL.People.Models\obj\Debug\netcoreapp2.0\AGL.People.Models.AssemblyInfoInputs.cache
+C:\Development\kloud.visualstudio.com\AGL.People\src\AGL.People.Models\AGL.People.Models\obj\Debug\netcoreapp2.0\AGL.People.Models.AssemblyInfo.cs
+C:\Development\kloud.visualstudio.com\AGL.People\src\AGL.People.Models\AGL.People.Models\obj\Debug\netcoreapp2.0\AGL.People.Models.dll
+C:\Development\kloud.visualstudio.com\AGL.People\src\AGL.People.Models\AGL.People.Models\obj\Debug\netcoreapp2.0\AGL.People.Models.pdb
+C:\Development\kloud.visualstudio.com\AGL.People\src\AGL.People.Models\AGL.People.Models\obj\Debug\netcoreapp2.0\AGL.People.Models.csprojResolveAssemblyReference.cache
