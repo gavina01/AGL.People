@@ -1,0 +1,11 @@
+C:\Development\kloud.visualstudio.com\AGL.People\AGL.People.Services\bin\Debug\netcoreapp2.0\AGL.People.Services.deps.json
+C:\Development\kloud.visualstudio.com\AGL.People\AGL.People.Services\bin\Debug\netcoreapp2.0\AGL.People.Services.dll
+C:\Development\kloud.visualstudio.com\AGL.People\AGL.People.Services\bin\Debug\netcoreapp2.0\AGL.People.Services.pdb
+C:\Development\kloud.visualstudio.com\AGL.People\AGL.People.Services\bin\Debug\netcoreapp2.0\AGL.People.Models.dll
+C:\Development\kloud.visualstudio.com\AGL.People\AGL.People.Services\bin\Debug\netcoreapp2.0\AGL.People.Models.pdb
+C:\Development\kloud.visualstudio.com\AGL.People\AGL.People.Services\obj\Debug\netcoreapp2.0\AGL.People.Services.csprojResolveAssemblyReference.cache
+C:\Development\kloud.visualstudio.com\AGL.People\AGL.People.Services\obj\Debug\netcoreapp2.0\AGL.People.Services.csproj.CoreCompileInputs.cache
+C:\Development\kloud.visualstudio.com\AGL.People\AGL.People.Services\obj\Debug\netcoreapp2.0\AGL.People.Services.AssemblyInfoInputs.cache
+C:\Development\kloud.visualstudio.com\AGL.People\AGL.People.Services\obj\Debug\netcoreapp2.0\AGL.People.Services.AssemblyInfo.cs
+C:\Development\kloud.visualstudio.com\AGL.People\AGL.People.Services\obj\Debug\netcoreapp2.0\AGL.People.Services.dll
+C:\Development\kloud.visualstudio.com\AGL.People\AGL.People.Services\obj\Debug\netcoreapp2.0\AGL.People.Services.pdb

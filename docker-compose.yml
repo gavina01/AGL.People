@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  agl.people:
+    image: agl.people
+    build:
+      context: ./src/AGL.People
+      dockerfile: Dockerfile
