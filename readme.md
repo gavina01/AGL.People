@@ -64,6 +64,7 @@ Unit tests have been added for the Services and Web project. It covers a few hap
 
 ### Things to improve ###
 
-The following can be added to further that the code is complete
+The following can be added to further enhance the code
 
 * Logging, by implementing ILogger
+* Polly package for api call
