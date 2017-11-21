@@ -1,1 +1,0 @@
-C:\Development\kloud.visualstudio.com\AGL.People\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
