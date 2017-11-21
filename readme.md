@@ -18,7 +18,7 @@ No further changes are required to get in running locally. docker-compose projec
 The instructions for the test can be found at http://agl-developer-test.azurewebsites.net/. Based on the instructions the following has been completed
 
 * Call EndPoint http://agl-developer-test.azurewebsites.net/people.json. (Can include something like Polly to include circuit breaker design/improve transient failures)
-* Group Data by the Persons Gender who own cats and list the cats names alphabetically.
+* Group Data by the Persons Gender who own cats and list the cat names alphabetically.
 
 ### How its Built ###
 
