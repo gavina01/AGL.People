@@ -13635,11 +13635,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Development\\kloud.visualstudio.com\\AGL.People\\tests\\AGL.People.Web\\AGL.People.Web.Tests.csproj",
+      "projectUniqueName": "C:\\Temp\\AGL.People\\tests\\AGL.People.Web\\AGL.People.Web.Tests.csproj",
       "projectName": "AGL.People.Web.Tests",
-      "projectPath": "C:\\Development\\kloud.visualstudio.com\\AGL.People\\tests\\AGL.People.Web\\AGL.People.Web.Tests.csproj",
+      "projectPath": "C:\\Temp\\AGL.People\\tests\\AGL.People.Web\\AGL.People.Web.Tests.csproj",
       "packagesPath": "C:\\Users\\gavina\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\kloud.visualstudio.com\\AGL.People\\tests\\AGL.People.Web\\obj\\",
+      "outputPath": "C:\\Temp\\AGL.People\\tests\\AGL.People.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13660,14 +13660,14 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Development\\kloud.visualstudio.com\\AGL.People\\src\\AGL.People\\AGL.People.csproj": {
-              "projectPath": "C:\\Development\\kloud.visualstudio.com\\AGL.People\\src\\AGL.People\\AGL.People.csproj"
+            "C:\\Temp\\AGL.People\\src\\AGL.People\\AGL.People.csproj": {
+              "projectPath": "C:\\Temp\\AGL.People\\src\\AGL.People\\AGL.People.csproj"
             },
-            "C:\\Development\\kloud.visualstudio.com\\AGL.People\\src\\AGL.People.Services\\AGL.People.Services.csproj": {
-              "projectPath": "C:\\Development\\kloud.visualstudio.com\\AGL.People\\src\\AGL.People.Services\\AGL.People.Services.csproj"
+            "C:\\Temp\\AGL.People\\src\\AGL.People.Services\\AGL.People.Services.csproj": {
+              "projectPath": "C:\\Temp\\AGL.People\\src\\AGL.People.Services\\AGL.People.Services.csproj"
             },
-            "C:\\Development\\kloud.visualstudio.com\\AGL.People\\src\\AGL.People.Models\\AGL.People.Models\\AGL.People.Models.csproj": {
-              "projectPath": "C:\\Development\\kloud.visualstudio.com\\AGL.People\\src\\AGL.People.Models\\AGL.People.Models\\AGL.People.Models.csproj"
+            "C:\\Temp\\AGL.People\\src\\AGL.People.Models\\AGL.People.Models\\AGL.People.Models.csproj": {
+              "projectPath": "C:\\Temp\\AGL.People\\src\\AGL.People.Models\\AGL.People.Models\\AGL.People.Models.csproj"
             }
           }
         }

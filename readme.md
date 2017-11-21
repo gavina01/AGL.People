@@ -4,7 +4,7 @@ Overall coding test to display the AGL api endpoint as a summary of gender with 
 
 ### Getting Started ###
 
-Clone the repo, open the solution file. By clicking "run" you will be able to browse the results on http://localhost:32777/
+Clone the repo, open the solution file. By clicking "run" (Docker) you will be able to browse the results on http://localhost
 
 ### Prerequisites ###
 

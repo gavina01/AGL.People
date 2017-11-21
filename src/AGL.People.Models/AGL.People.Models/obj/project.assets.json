@@ -3618,11 +3618,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Development\\kloud.visualstudio.com\\AGL.People\\src\\AGL.People.Models\\AGL.People.Models\\AGL.People.Models.csproj",
+      "projectUniqueName": "C:\\Temp\\AGL.People\\src\\AGL.People.Models\\AGL.People.Models\\AGL.People.Models.csproj",
       "projectName": "AGL.People.Models",
-      "projectPath": "C:\\Development\\kloud.visualstudio.com\\AGL.People\\src\\AGL.People.Models\\AGL.People.Models\\AGL.People.Models.csproj",
+      "projectPath": "C:\\Temp\\AGL.People\\src\\AGL.People.Models\\AGL.People.Models\\AGL.People.Models.csproj",
       "packagesPath": "C:\\Users\\gavina\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\kloud.visualstudio.com\\AGL.People\\src\\AGL.People.Models\\AGL.People.Models\\obj\\",
+      "outputPath": "C:\\Temp\\AGL.People\\src\\AGL.People.Models\\AGL.People.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
