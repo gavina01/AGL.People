@@ -11,7 +11,7 @@ Clone the repo, open the solution file. By clicking "run" (Docker) you will be a
 * Visual Studio 2017
 * Docker for Windows (if running on a Windows machine) - Use Linux container setting
 
-No further changes are required to get in running locally.
+No further changes are required to get in running locally. docker-compose project should be set as startup-project.
 
 ### Requirements ###
 
